@@ -1,0 +1,6 @@
+spring:
+  data:
+    redis:
+      host: 192.168.10.129
+      password: xhy@20220913
+      port: 6379
